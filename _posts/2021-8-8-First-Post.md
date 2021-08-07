@@ -3,8 +3,6 @@ layout: post
 title: My first post on this blog!
 ---
 
-# Hello everyone!
-
 This is my first post on this blog! And I salute you!
 
 Text with my thougts
