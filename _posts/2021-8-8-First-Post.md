@@ -4,7 +4,6 @@ title: My first post on this blog!
 ---
 
 This is my first post on this blog! And I salute you!
-
 Text with my thougts
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
